@@ -1,0 +1,11 @@
+Our goal is to create a public-facing Streamlit app on streamlit.io which will render a React JS app hosted in my demo459 account.
+
+- create a "hello world - react" react js app and deploy it in demo459
+- create a Streamlit app "hello world - st"on on demo459 which embed the react app in it
+- create a public facing app in streamlit.io that will embed "hello world - st" so anyone on internet can acces it
+- create a Streamlit app 
+
+
+here are docs links on how to create a apublic facing streamlit app 
+* https://docs.snowflake.com/en/developer-guide/streamlit/features/embedding/overview
+* https://docs.snowflake.com/en/release-notes/2024/other/2024-08-02-sis
